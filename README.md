@@ -29,7 +29,6 @@ An Android app designed to help users gradually quit bad habits (smoking, alcoho
 1. Clone the repository:
    ```bash
   https://github.com/whoisshecodes/MindShift_app.git
-  ```
 
 🏗 Project Structure
 app/
