@@ -29,7 +29,7 @@ An Android app designed to help users gradually quit bad habits (smoking, alcoho
 1. Clone the repository:
    ``` git clone https://github.com/whoisshecodes/MindShift_app.git```
 
-🏗 Project Structure
+## 🏗 Project Structure
 ```
 app/
 ├── data/           # Data layer (Room, Repositories)
@@ -43,11 +43,11 @@ app/
     └── ui/         # Composable components
 ```
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
 
-📄 License
+## 📄 License
 
 MIT License
 Copyright (c) 2023 whoisshecodes
