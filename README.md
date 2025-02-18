@@ -30,10 +30,18 @@ An Android app designed to help users gradually quit bad habits (smoking, alcoho
    ```bash https://github.com/whoisshecodes/MindShift_app.git
 
 🏗 Project Structure
+```
 app/
-├── data/         # Data layer (Room, Repositories)
-├── domain/       # Business logic (Entities, Use Cases)
-└── presentation/ # UI (Compose) + ViewModels
+├── data/           # Data layer (Room, Repositories)
+│   ├── local/      # Database, DAOs
+│   └── repository/ # Repository implementations
+├── domain/         # Business logic
+│   ├── model/      # Entities
+│   └── usecase/    # Use Cases
+└── presentation/   # UI Layer
+    ├── viewmodel/  # ViewModels
+    └── ui/         # Composable components
+```
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
