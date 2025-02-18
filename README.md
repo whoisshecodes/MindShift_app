@@ -46,5 +46,6 @@ app/
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
 
+📄 License
 MIT License
 Copyright (c) 2023 whoisshecodes
