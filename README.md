@@ -1,5 +1,6 @@
 WORK IN PROGRESS!
 
+![logo](561_1x_shots_so.png)
 
 # MindShift: Habit Tracking & Breaking App
 
