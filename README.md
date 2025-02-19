@@ -30,6 +30,10 @@ An Android app designed to help users gradually quit bad habits (smoking, alcoho
 1. Clone the repository:
    ``` git clone https://github.com/whoisshecodes/MindShift_app.git```
 
+2. Open the project in Android Studio.
+
+3. Build and run on an emulator or physical device (API 21+).
+
 ## 🏗 Project Structure
 ```
 app/
